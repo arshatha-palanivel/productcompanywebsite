@@ -733,8 +733,8 @@ Publish the website in the given URL.
 
 ### people.html:
 ![people](https://user-images.githubusercontent.com/118682484/215306430-8e54e316-af6f-40e2-8e25-f7213cd3447a.png)
-![people2](https://user-images.githubusercontent.com/118682484/215306434-a7348d33-8bf8-4420-8307-3594d32b3a41.png)
 ![people3](https://user-images.githubusercontent.com/118682484/215306440-372dbf09-a929-433a-b722-fcc6dfe3ab20.png)
+![people2](https://user-images.githubusercontent.com/118682484/215306434-a7348d33-8bf8-4420-8307-3594d32b3a41.png)
 ![people4](https://user-images.githubusercontent.com/118682484/215306442-46b779e8-7a6d-4e78-8e88-3f4fc3aa1f2b.png)
 ### contact:
 ![contact1](https://user-images.githubusercontent.com/118682484/215306453-582b4762-1711-48fc-9ac2-7818af83a9c8.png)
