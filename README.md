@@ -645,7 +645,7 @@ Publish the website in the given URL.
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2022 Developed by Sudhakar</footer></div>
+                Copyright &copy;2022 Developed by arshatha</footer></div>
             </div>
         </div>
     </body>
@@ -715,7 +715,7 @@ Publish the website in the given URL.
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2022 Developed by Sudhakar</footer></div>
+                Copyright &copy;2022 Developed by arshatha</footer></div>
             </div>
         </div>
     </body>
@@ -726,18 +726,21 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![home](https://user-images.githubusercontent.com/118682484/215306183-aa22b494-1294-4b88-b201-23c5729a5a0c.png)
-### product page:
-![products](https://user-images.githubusercontent.com/118682484/215306250-f32ea7b7-3982-4dba-8db9-c2d51da97e02.png)
-![products2](https://user-images.githubusercontent.com/118682484/215306423-49fc94c4-a1ea-4c82-859d-60e147e96312.png)
+![home@](https://user-images.githubusercontent.com/118682484/215306912-fa9e3553-ef6f-4e82-bd08-cbd8222bb4ce.png)
 
+### product page:
+![products](https://user-images.githubusercontent.com/118682484/215306944-e2ea9f44-fd01-4b50-9e0e-b3ba3719a6b1.png)
+![products2@](https://user-images.githubusercontent.com/118682484/215306949-f6eead63-832f-4015-a03a-0f66044ee575.png)
 ### people.html:
-![people](https://user-images.githubusercontent.com/118682484/215306430-8e54e316-af6f-40e2-8e25-f7213cd3447a.png)
-![people3](https://user-images.githubusercontent.com/118682484/215306440-372dbf09-a929-433a-b722-fcc6dfe3ab20.png)
-![people2](https://user-images.githubusercontent.com/118682484/215306434-a7348d33-8bf8-4420-8307-3594d32b3a41.png)
-![people4](https://user-images.githubusercontent.com/118682484/215306442-46b779e8-7a6d-4e78-8e88-3f4fc3aa1f2b.png)
+![people](https://user-images.githubusercontent.com/118682484/215306968-82a16514-f499-4381-a26e-2e2f69647025.png)
+![people2@](https://user-images.githubusercontent.com/118682484/215306970-c1591b88-e728-4c85-ba18-a9f9e315bac5.png)
+![people3@](https://user-images.githubusercontent.com/118682484/215306971-08b8abec-8ce0-4de3-99c5-7244868113ad.png)
+![people4@](https://user-images.githubusercontent.com/118682484/215306972-bf14635d-f77e-4bbf-85a6-7bdc3d139579.png)
+
 ### contact:
-![contact1](https://user-images.githubusercontent.com/118682484/215306453-582b4762-1711-48fc-9ac2-7818af83a9c8.png)
+![contact1@](https://user-images.githubusercontent.com/118682484/215306982-435aca03-6f9e-496c-8b82-37109e616544.png)
+
+
 ### validator:
 ![212908239-771c6cce-b74a-4870-b353-ab30b13a9b09](https://user-images.githubusercontent.com/118682484/215306497-603d73c4-ed3f-4477-a9b4-939c8c52b87c.png)
 
